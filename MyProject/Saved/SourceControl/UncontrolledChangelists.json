@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/dbga_067/Desktop/Unreal_Villa/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/dbga_067/Desktop/Unreal_Villa/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/dbga_067/Desktop/Unreal_Villa/MyProject/Content/BP/Lamp.uasset",
+				"C:/Users/dbga_067/Desktop/Unreal_Villa/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/4M/4W61AROTK9MLS8WP29LU7Q.uasset"
+			]
+		}
+	]
+}
